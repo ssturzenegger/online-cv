@@ -4,8 +4,8 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Simon Sturzenegger
@@ -34,24 +34,24 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Biking
           link:
 
-        - item: Snowboarding
+        - item: Reading
           link:
 
-        - item: Cooking
+        - item: Coding
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Simon Sturzenegger is the Head of Technology & Workflow at Rotor Film, 
+      one of Germany's most renowned post-production studios. He began his 
+      career in the camera department and transitioned to post-production in 2014, 
+      where he worked as a post-production producer on high-end projects such as 
+      "Barbarians - Season 2" and "Der Greif". He is an expert in image and sound 
+      post-production and is intensively involved with AI in the post-production field.
 education:
     title: Education
     info:
