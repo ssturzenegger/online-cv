@@ -59,65 +59,40 @@ education:
         university: Informatikmittelschule Frauenfeld
         time: 2002 - 2006
         details: |
-          I received a comprehensive education that blended general academic subjects 
-          with in-depth training in IT. My time there was defined by a focus on acquiring 
+          Simon received a comprehensive education that blended general academic subjects 
+          with in-depth training in IT. His time there was defined by a focus on acquiring 
           both theoretical knowledge and practical skills, which laid the groundwork for 
-          my future career in technology.
-            - Programming
+          his future career in technology.
+            - Programming (Delphi, C#, ASP.NET)
             - Systems and Networks
             - Project Management
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Head of Technology & Workflow
+        time: April 2024 - Present
+        company: Rotor Film GmbH, Potsdam (Germany)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Leading the tech and IT department, overseeing post-production and picture post-production 
+          technology. Focused on R&D to develop innovative workflows, optimize efficiency, and integrate 
+          future technologies. His role ensures that the technical infrastructure supports cutting-edge 
+          creative work and adapts to evolving industry trends.
+      - role: Senior Workflow Specialist
+        time: Januar 2023 - April 2024
+        company: Rotor Film GmbH, Potsdam (Germany)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Designing and optimizing processes for seamless collaboration and high-quality output. Specializing 
+          in tailored workflows, he integrates new technologies, manages complex data flows, and ensure 
+          timelines are met. He also focuses on automating tasks and troubleshooting technical issues to maintain 
+          efficient, smooth operations across software and hardware systems.
+      - role: Senior Inhouse Producer
+        time: March 2022 - December 2022
+        company: Rotor Film GmbH, Potsdam (Germany)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Managing high-end theatrical- and streaming postproduction projects for cinema and television. Responsible 
+          for image- and audio postproduction with a team of approximately 40 people. Close collaboration with 
+          postproduction supervisors and producers.
 
 certifications:
       title: Certifications
