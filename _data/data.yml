@@ -47,16 +47,16 @@ career-profile:
     title: Career Profile
     summary: |
       Simon Sturzenegger is the Head of Technology & Workflow at Rotor Film, 
-      one of Germany's most renowned post-production studios. He began his 
-      career in the camera department and transitioned to post-production in 2014, 
-      where he worked as a post-production producer on high-end projects such as 
+      one of Germany's most renowned postproduction studios. He began his 
+      career in the camera department and transitioned to postproduction in 2014, 
+      where he worked as a postproduction producer on high-end projects such as 
       "Barbarians - Season 2" and "Der Greif". He is an expert in image and sound 
-      post-production and is intensively involved with AI in the post-production field.
+      postproduction and is intensively involved with AI in the postproduction field.
 education:
     title: Education
     info:
       - degree: Eidg. dipl. Informatiker (Computer Software Engineer)
-        university: Informatikmittelschule Frauenfeld
+        university: Informatikmittelschule Frauenfeld (🇨🇭)
         time: 2002 - 2006
         details: |
           Simon received a comprehensive education that blended general academic subjects 
@@ -71,28 +71,42 @@ experiences:
     title: Experiences
     info:
       - role: Head of Technology & Workflow
-        time: April 2024 - Present
-        company: Rotor Film GmbH, Potsdam (Germany)
+        time: Apr 2024 - Present
+        company: Rotor Film GmbH, Potsdam (🇩🇪)
         details: |
-          Leading the tech and IT department, overseeing post-production and picture post-production 
+          Leading the tech and IT department, overseeing postproduction and picture postproduction 
           technology. Focused on R&D to develop innovative workflows, optimize efficiency, and integrate 
           future technologies. His role ensures that the technical infrastructure supports cutting-edge 
           creative work and adapts to evolving industry trends.
       - role: Senior Workflow Specialist
-        time: Januar 2023 - April 2024
-        company: Rotor Film GmbH, Potsdam (Germany)
+        time: Jan 2023 - Apr 2024
+        company: Rotor Film GmbH, Potsdam (🇩🇪)
         details: |
           Designing and optimizing processes for seamless collaboration and high-quality output. Specializing 
           in tailored workflows, he integrates new technologies, manages complex data flows, and ensure 
           timelines are met. He also focuses on automating tasks and troubleshooting technical issues to maintain 
           efficient, smooth operations across software and hardware systems.
       - role: Senior Inhouse Producer
-        time: March 2022 - December 2022
-        company: Rotor Film GmbH, Potsdam (Germany)
+        time: Mar 2022 - Dec 2022
+        company: Rotor Film GmbH, Potsdam (🇩🇪)
         details: |
           Managing high-end theatrical- and streaming postproduction projects for cinema and television. Responsible 
           for image- and audio postproduction with a team of approximately 40 people. Close collaboration with 
           postproduction supervisors and producers.
+      - role: Head of Operations
+        time: May 2021 - Feb 2022
+        company: Cinegrell Postfactory GmbH, Berlin (🇩🇪)
+        details: |
+          Establishing a robust digital postproduction infrastructure for feature films and streaming projects. 
+          Leading and overseeing the 16mm/35mm film lab and scanning team, specializing in non-archival projects, 
+          ensuring high-quality results and seamless integration with modern digital workflows.
+      - role: Head of Operations
+        time: Jan 2020 - May 2021
+        company: Cine Chromatix KG, Berlin (🇩🇪)
+        details: |
+          Optimizing workflows and pipelines to enhance efficiency and productivity. Responsible for spearheading the 
+          implementation of a cutting-edge project management system, which includes the comprehensive migration of 
+          data from legacy systems, ensuring seamless collaboration across teams.
 
 certifications:
       title: Certifications
