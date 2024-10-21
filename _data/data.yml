@@ -26,10 +26,10 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional working proficiency
+          level: Fluent
 
         - idiom: French
-          level: Limited working proficiency
+          level: Proficient
 
     interests:
       title: Interests
@@ -55,17 +55,17 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Eidg. dipl. Informatiker (Computer Software Engineer)
+        university: Informatikmittelschule Frauenfeld
+        time: 2002 - 2006
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I received a comprehensive education that blended general academic subjects 
+          with in-depth training in IT. My time there was defined by a focus on acquiring 
+          both theoretical knowledge and practical skills, which laid the groundwork for 
+          my future career in technology.
+            - Programming
+            - Systems and Networks
+            - Project Management
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
